@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+networking/
+bin/
+lib/
+include/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor specific files
+.swp
+.swo
+.vscode/
+.idea/
+.obsidian/
+
+# Packet Captures and Logs
+*.pcap
+*.log
+
+# OS generated files
+.DS_Store
